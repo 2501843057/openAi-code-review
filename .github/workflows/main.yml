@@ -26,6 +26,6 @@ jobs:
 
       - name: Run Java code
         run: |
-          cd openai-code-review-sdk/src/main/java
+          cd openAi-code-review-sdk/src/main/java
           javac cn/gege/com/sdk/OpenAiCodeReview.java
           java cn.gege.com.sdk.OpenAiCodeReview
