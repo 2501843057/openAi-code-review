@@ -1,4 +1,4 @@
-package cn.gege.com;
+package cn.gege.com.sdk;
 
 public class OpenAiCodeReview {
     public static void main(String[] args) {

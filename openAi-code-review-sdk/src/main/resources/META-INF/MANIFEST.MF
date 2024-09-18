@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: cn.gege.com.OpenAiCodeReview
+Main-Class: cn.gege.com.sdk.OpenAiCodeReview
